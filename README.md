@@ -1,5 +1,6 @@
 # THM Projektarbeit 2022
-## Bahnplanung: Abfahren von Splines mit konstanter Geschwindigkeit
+
+## Herleitung und Programmierung von Splines mit konstanten Geschwindigkeitsbereichen
 
 Dies ist das Repository für die während meiner Projektarbeit erstellten Programme.
 
